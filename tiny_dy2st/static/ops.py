@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 from tiny_dy2st.base import DType
 from tiny_dy2st.static.ir import OPType, emit_ir
 from tiny_dy2st.static.variable import Variable

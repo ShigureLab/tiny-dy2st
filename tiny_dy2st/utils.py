@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 NAMES_MAP: dict[str, int] = {}
 
 

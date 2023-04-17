@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 from tiny_dy2st.base import BaseTensor, DType, Value
 
 class Tensor(BaseTensor):
