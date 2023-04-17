@@ -1,7 +1,8 @@
 import ast
 import inspect
 import os
-from typing import Callable, ParamSpec, TypeVar
+from typing import Callable, TypeVar
+from typing_extensions import ParamSpec
 
 import tiny_dy2st
 from tiny_dy2st.dy2st.transformers.transformer import Dy2StTransformer

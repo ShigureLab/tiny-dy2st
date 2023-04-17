@@ -1,4 +1,5 @@
-from typing import Callable, ParamSpec, TypeVar
+from typing import Callable, TypeVar
+from typing_extensions import ParamSpec
 
 import tiny_dy2st
 
